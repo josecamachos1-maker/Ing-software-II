@@ -2,4 +2,8 @@ function sumar(a, b) {
   return a + b;
 }
 
-export default sumar;
+function mult(a,b){
+  return a * b
+}
+
+export {sumar,mult};

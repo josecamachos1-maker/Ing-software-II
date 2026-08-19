@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-19T00:59:56.000Z",
+      "message": "multiplicador y suma",
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 38,
+      "deletions": 6,
+      "date": "2026-08-19"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  }
+]
