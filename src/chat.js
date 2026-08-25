@@ -1,12 +1,14 @@
 const formN = document.querySelector("#nombre-form")
 const nombreP = document.querySelector("#nombre-input")
 const saludo = document.querySelector("#saludo");
+const generoP = document.querySelector("#genero-input")
 
 formN.addEventListener("submit", (event) =>
 {
     event.preventDefault();
 
     const nombre = nombreP.value;
+    const genero = generoP.value
     const hora = new Date().getHours();
 
     let mensaje
@@ -20,6 +22,6 @@ formN.addEventListener("submit", (event) =>
     }
 
 
-    saludo.textContent = "Hola" + " " + nombre + "\n" + mensaje + " " + nombre
+    saludo.textContent = "Hola" + " " + nombre + " y tu genero es " + genero + "\n" + mensaje + " " + nombre
     
 });
