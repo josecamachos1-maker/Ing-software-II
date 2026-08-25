@@ -17,25 +17,38 @@ formN.addEventListener("submit", (event) =>
 
     let mensaje
     let genero2
+    let nombre2
 
+    if(nombre == "")
+    {
+        nombre2 = "visitante"
+
+    }
+    else
+    {
+        nombre2 = nombre
+
+    }
     if(edad > 30)
     {
-        if(genero == "Hombre" )
+        if(genero == "hombre" )
         {
             genero2 = "senior"
         }
         else
+            if(genero == "mujer")
         {
             genero2 = "seniora"
         }
     }
     else
     {
-        if(genero == "Hombre")
+        if(genero == "hombre")
         {
             genero2 = "Joven"
         }
         else
+            if(genero == "mujer")
         {
             genero2 = "Jovencita"
         }
@@ -56,7 +69,7 @@ formN.addEventListener("submit", (event) =>
         }
 
 
-    saludo.textContent = "Hola" + " " + nombre + " y te saluda como " + genero2 + "\n" + mensaje + " " + nombre
+    saludo.textContent = "Hola" + " " + nombre2 + " y te saluda como " + genero2 + "\n" + mensaje + " " + nombre2
     
 });
 
