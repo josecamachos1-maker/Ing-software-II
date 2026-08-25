@@ -19,16 +19,35 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "7ffcabec0dce938d43732c56aa8453395294b0c5",
     "author": "pochis",
     "commit": {
       "date": "2026-08-25T01:59:54.000Z",
       "message": "El hola",
-      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/7ffcabec0dce938d43732c56aa8453395294b0c5"
     },
     "stats": {
       "total": 40,
       "additions": 39,
+      "deletions": 1,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-25T02:03:11.000Z",
+      "message": "dale netly tu puedes",
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
       "deletions": 1,
       "date": "2026-08-25"
     },

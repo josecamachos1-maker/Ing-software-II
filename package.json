@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "parcel index.html chat.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html chat.html",
     "test": "node ./script/tddScript.js",
     "cypress": "cypress open",
     "cypress-run": "cypress run",
