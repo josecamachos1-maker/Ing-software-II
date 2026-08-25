@@ -20,3 +20,8 @@ npm test
 
 Ejecutar pruebas de unidad solo una vez:
 npm run test-once
+ 
+El padding funciona 
+ padding 15px 30px
+15px: espacio arriba y abajo.
+30px: espacio a la izquierda y derecha.

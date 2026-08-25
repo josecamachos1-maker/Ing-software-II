@@ -1,0 +1,7 @@
+#chat-button{
+    background-color: rgb(127, 125, 246);
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 15px 30px;
+}

@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html xml:lang="es">
   <head>
+    <head>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sumador</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
   </head>
   <body>
     <h1>Sumador</h1>
@@ -27,6 +31,15 @@
     </form>
     <div id="mult-div"></div>
 
+    <script type="module" src="./src/presenter.js"></script>
+  </body>
+  <body>
+    <form id="chat-form">
+
+      <input type="button" value="chat" id="chat-button" onclick="window.location.href='./chat.html'"
+  />
+</form>
+    <div id="chat-div"></div>
     <script type="module" src="./src/presenter.js"></script>
   </body>
 </html>

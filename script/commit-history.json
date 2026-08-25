@@ -1,17 +1,36 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "a8c5e68556b66b446f8c8eddb1183798178568ba",
     "author": "pochis",
     "commit": {
       "date": "2026-08-19T00:59:56.000Z",
       "message": "multiplicador y suma",
-      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/a8c5e68556b66b446f8c8eddb1183798178568ba"
     },
     "stats": {
       "total": 44,
       "additions": 38,
       "deletions": 6,
       "date": "2026-08-19"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-25T01:59:54.000Z",
+      "message": "El hola",
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 39,
+      "deletions": 1,
+      "date": "2026-08-25"
     },
     "coverage": 0,
     "test_count": 1,
