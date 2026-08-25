@@ -114,17 +114,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "b2023290b4266e1dd12d1a8d7d039986f08e1531",
     "author": "pochis",
     "commit": {
       "date": "2026-08-25T03:02:23.000Z",
       "message": "edad y arreglos",
-      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/b2023290b4266e1dd12d1a8d7d039986f08e1531"
     },
     "stats": {
       "total": 40,
       "additions": 37,
       "deletions": 3,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-25T03:21:23.000Z",
+      "message": "idioma",
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+    },
+    "stats": {
+      "total": 52,
+      "additions": 41,
+      "deletions": 11,
       "date": "2026-08-25"
     },
     "coverage": 0,
