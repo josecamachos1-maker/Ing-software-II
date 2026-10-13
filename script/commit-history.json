@@ -152,18 +152,37 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "9a6555ac8d2ff981e2698ccfc2c76589949265ba",
     "author": "pochis",
     "commit": {
       "date": "2026-08-25T13:38:37.000Z",
       "message": "feat: Nombre Saluda como visitante y el arreglo de errores ya estaba implementado",
-      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/9a6555ac8d2ff981e2698ccfc2c76589949265ba"
     },
     "stats": {
       "total": 21,
       "additions": 17,
       "deletions": 4,
       "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-10-13T13:55:06.000Z",
+      "message": "Feat: Primer push",
+      "url": "https://github.com/josecamachos1-maker/Ing-software-II/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-10-13"
     },
     "coverage": 0,
     "test_count": 1,
